@@ -1,0 +1,9 @@
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\bin\Debug\cpts322hw12 threading.exe.config
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\bin\Debug\cpts322hw12 threading.exe
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\bin\Debug\cpts322hw12 threading.pdb
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\obj\Debug\cpts322hw12 threading.csprojResolveAssemblyReference.cache
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\obj\Debug\cpts322hw12_threading.Form1.resources
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\obj\Debug\cpts322hw12_threading.Properties.Resources.resources
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\obj\Debug\cpts322hw12 threading.csproj.GenerateResource.Cache
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\obj\Debug\cpts322hw12 threading.exe
+C:\Users\Siyang\Desktop\cpts322hw12 threading\cpts322hw12 threading\obj\Debug\cpts322hw12 threading.pdb
